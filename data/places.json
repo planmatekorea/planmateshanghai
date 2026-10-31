@@ -1,0 +1,228 @@
+{
+ "categories": [
+  {
+   "name": "훠궈",
+   "emoji": "🔥"
+  },
+  {
+   "name": "딤섬",
+   "emoji": "🥟"
+  },
+  {
+   "name": "한식",
+   "emoji": "🇰🇷"
+  },
+  {
+   "name": "양식",
+   "emoji": "🍝"
+  },
+  {
+   "name": "광둥요리",
+   "emoji": "🥘"
+  },
+  {
+   "name": "북경요리",
+   "emoji": "🦆"
+  },
+  {
+   "name": "BAR(루프탑 야경맛집)",
+   "emoji": "🥤"
+  },
+  {
+   "name": "일식",
+   "emoji": "🍣"
+  },
+  {
+   "name": "사천요리",
+   "emoji": "🌶️"
+  },
+  {
+   "name": "꿔바로우(동북탕수육)",
+   "emoji": "🍲"
+  },
+  {
+   "name": "중식",
+   "emoji": "🥢"
+  },
+  {
+   "name": "양꼬치",
+   "emoji": "🐑"
+  },
+  {
+   "name": "카페",
+   "emoji": "☕"
+  }
+ ],
+ "logo": "img/logo.png",
+ "shopCategories": [
+  {
+   "name": "기념품",
+   "emoji": "🎁"
+  },
+  {
+   "name": "화장품·뷰티",
+   "emoji": "💄"
+  },
+  {
+   "name": "차·식품",
+   "emoji": "🍵"
+  },
+  {
+   "name": "생활·잡화",
+   "emoji": "🧴"
+  },
+  {
+   "name": "패션",
+   "emoji": "👕"
+  },
+  {
+   "name": "전자·가전",
+   "emoji": "📱"
+  }
+ ],
+ "restaurants": [
+  {
+   "image": "img/rest01.jpg",
+   "phone": "021-6361-7188",
+   "desc": "이미 유명한 1번 훠궈집!\n#상하이 #상해 #인민광장 #난징동루 #쿵푸면 #반반가능 #매운맛 #안매운맛 #소스조제",
+   "name": "海底捞(人民广场)",
+   "nameKr": "하이디라오(인민광장)",
+   "address": "上海市黄浦区南京东路830号第一百货B管5楼",
+   "cat": "훠궈",
+   "price": "2.5만 KRW / 人 , 130 RMB / 人",
+   "emoji": "🔥",
+   "hours": "",
+   "id": "rest01",
+   "oldId": "4OW4HDIbMNK11Jw5PCxd",
+   "free": true,
+   "ord": 0
+  },
+  {
+   "id": "rest02",
+   "ord": 1,
+   "locked": true
+  },
+  {
+   "id": "rest03",
+   "ord": 2,
+   "locked": true
+  },
+  {
+   "id": "rest04",
+   "ord": 3,
+   "locked": true
+  },
+  {
+   "id": "rest05",
+   "ord": 4,
+   "locked": true
+  },
+  {
+   "id": "rest06",
+   "ord": 5,
+   "locked": true
+  },
+  {
+   "price": "2만 KRW / 人 , 100 RMB /人",
+   "nameKr": "헌지우이치엔(난징동루)",
+   "emoji": "🐑",
+   "address": "上海市黄浦区南京路步行街第一百货B管6楼",
+   "desc": "신선한 내몽고 아기양 양꼬치\n한국인들 좋아하는 1위 맛집!\n새벽 3시까지 하는 곳!",
+   "cat": "양꼬치",
+   "image": "img/rest07.jpg",
+   "phone": "010-5872-7417",
+   "name": "很久以前羊肉串(南京东路)",
+   "id": "rest07",
+   "oldId": "WibNPuNWZ0XkOZUyXZrK",
+   "free": true,
+   "ord": 6
+  },
+  {
+   "id": "rest08",
+   "ord": 7,
+   "locked": true
+  },
+  {
+   "id": "rest09",
+   "ord": 8,
+   "locked": true
+  },
+  {
+   "id": "rest10",
+   "ord": 9,
+   "locked": true
+  }
+ ],
+ "sights": [
+  {
+   "phone": "",
+   "image": "img/sight01.jpg",
+   "desc": "#상하이 #상해 #전통가옥 #정원 #한푸 #전통복 #체험\n영업시간 09:00-16:30",
+   "address": "上海市黄埔区福佑路168号",
+   "name": "예원(豫园)",
+   "emoji": "🏛️",
+   "id": "sight01",
+   "oldId": "2QtMGxNj4I5YxshrPKxb",
+   "free": true,
+   "ord": 0
+  },
+  {
+   "id": "sight02",
+   "ord": 1,
+   "locked": true
+  },
+  {
+   "id": "sight03",
+   "ord": 2,
+   "locked": true
+  },
+  {
+   "id": "sight04",
+   "ord": 3,
+   "locked": true
+  },
+  {
+   "id": "sight05",
+   "ord": 4,
+   "locked": true
+  },
+  {
+   "id": "sight06",
+   "ord": 5,
+   "locked": true
+  },
+  {
+   "id": "sight07",
+   "ord": 6,
+   "locked": true
+  },
+  {
+   "id": "sight08",
+   "ord": 7,
+   "locked": true
+  },
+  {
+   "id": "sight09",
+   "ord": 8,
+   "locked": true
+  },
+  {
+   "id": "sight10",
+   "ord": 9,
+   "locked": true
+  }
+ ],
+ "hotels": [
+  {
+   "id": "hotel01",
+   "ord": 0,
+   "locked": true
+  },
+  {
+   "id": "hotel02",
+   "ord": 1,
+   "locked": true
+  }
+ ],
+ "shops": []
+}
